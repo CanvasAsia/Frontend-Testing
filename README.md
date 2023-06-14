@@ -7,6 +7,6 @@
 
 Create a new branch then commit to current repository.
 
-> Branch name: [name]_[MMDD]
+Branch name: [name]_[MMDD]
 
 > Ex: "Huy_0614"
